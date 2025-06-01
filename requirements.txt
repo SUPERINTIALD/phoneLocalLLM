@@ -1,0 +1,4 @@
+lmstudio
+python-dotenv
+flask
+requests
