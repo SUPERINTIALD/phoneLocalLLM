@@ -1,4 +1,8 @@
 lmstudio
+<<<<<<< HEAD
 python-dotenv
 flask
 requests
+=======
+flask
+>>>>>>> b316202e299796fded2278426bffcaaefbab5c25
